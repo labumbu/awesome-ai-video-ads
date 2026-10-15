@@ -2,7 +2,7 @@
 
 **63 open-source repos to make a video ad with AI. 3 that check whether it will sell.**
 
-The repos below that make video have **1,527,304 GitHub stars** between them. The ones that check a video ad before you spend money on it have **118**.
+The repos below that make video have **1,527,694 GitHub stars** between them. The ones that check a video ad before you spend money on it have **118**.
 
 Making a video ad is close to free now. Knowing which one will sell is not. This list maps the open-source stack for both, grouped by the job each tool does in an ad pipeline.
 
@@ -10,8 +10,8 @@ Stars and licenses: GitHub API, 15 Oct 2026, refreshed with `build.py`. Code lic
 
 ## Contents
 
-- [Agents that edit and assemble the video](#agents-that-edit-and-assemble-the-video) — 8 repos, 246.3K stars
-- [Short-video and UGC factories](#short-video-and-ugc-factories) — 8 repos, 172K stars
+- [Agents that edit and assemble the video](#agents-that-edit-and-assemble-the-video) — 8 repos, 246.5K stars
+- [Short-video and UGC factories](#short-video-and-ugc-factories) — 8 repos, 172.1K stars
 - [Open video models](#open-video-models) — 12 repos, 273.3K stars
 - [Voice: text-to-speech and cloning](#voice-text-to-speech-and-cloning) — 12 repos, 387.5K stars
 - [Faces, avatars and lip-sync](#faces-avatars-and-lip-sync) — 8 repos, 87.8K stars
@@ -24,9 +24,9 @@ Stars and licenses: GitHub API, 15 Oct 2026, refreshed with `build.py`. Code lic
 
 | Repo | Stars | What it does for an ad | Code license |
 |---|---:|---|---|
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 68.3K | Agentic video production: script to finished cut with a coding agent | AGPL-3.0 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 68.4K | Agentic video production: script to finished cut with a coding agent | AGPL-3.0 |
 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 64.2K | Make videos in React code; the base layer of many AI video agents. Own license: larger companies need a paid one | Not detected, see repo |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 63.9K | HeyGen's HTML-to-video renderer built for agents | Apache-2.0 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 64K | HeyGen's HTML-to-video renderer built for agents | Apache-2.0 |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | 29K | Edit real footage with a coding agent | MIT |
 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 12K | Claude Code / Codex skill for product videos on Remotion | Apache-2.0 |
 | [remotion-dev/skills](https://github.com/remotion-dev/skills) | 5.2K | Official Remotion skills for Claude Code and other agents | Not detected, see repo |
@@ -43,8 +43,8 @@ Stars and licenses: GitHub API, 15 Oct 2026, refreshed with `build.py`. Code lic
 | [mutonby/openshorts](https://github.com/mutonby/openshorts) | 6.6K | Long video in, 9:16 clips with face tracking out | MIT |
 | [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 5.6K | Batch product-marketing shorts, desktop app | AGPL-3.0 |
 | [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | 5.4K | Long YouTube video to vertical clips | MIT |
-| [xixihhhh/clipforge](https://github.com/xixihhhh/clipforge) | 999 | One product photo to a selling short video | AGPL-3.0 |
-| [Anil-matcha/Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | 366 | AI UGC-style videos with avatars | MIT |
+| [xixihhhh/clipforge](https://github.com/xixihhhh/clipforge) | 1K | One product photo to a selling short video | AGPL-3.0 |
+| [Anil-matcha/Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | 367 | AI UGC-style videos with avatars | MIT |
 
 ## Open video models
 
@@ -57,7 +57,7 @@ Stars and licenses: GitHub API, 15 Oct 2026, refreshed with `build.py`. Code lic
 | [zai-org/CogVideo](https://github.com/zai-org/CogVideo) | 13.1K | CogVideoX text- and image-to-video | Apache-2.0 |
 | [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | 12.6K | Tencent's open video model | Not detected, see repo |
 | [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | 10K | MiniMax's open video model (the Hailuo team) | Not detected, see repo |
-| [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | 9.7K | Audio + video in one model, with a LoRA trainer | Not detected, see repo |
+| [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | 9.8K | Audio + video in one model, with a LoRA trainer | Not detected, see repo |
 | [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) | 9.2K | Meituan's long-video model | MIT |
 | [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 7.7K | Long-form film generation | Not detected, see repo |
 | [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | 4.6K | Lighter HunyuanVideo for smaller GPUs | Not detected, see repo |
@@ -73,7 +73,7 @@ Stars and licenses: GitHub API, 15 Oct 2026, refreshed with `build.py`. Code lic
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 39.3K | Multilingual TTS with voice design | Apache-2.0 |
 | [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | 37.9K | Instant voice cloning across languages | MIT |
 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 33.1K | Multilingual TTS and cloning | Not detected, see repo |
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 26.9K | TTS with emotion control | MIT |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 27K | TTS with emotion control | MIT |
 | [index-tts/index-tts](https://github.com/index-tts/index-tts) | 24.5K | Zero-shot TTS with duration control (handy for dubbing) | Not detected, see repo |
 | [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) | 24K | Multilingual voice generation from the Qwen team | Apache-2.0 |
 | [nari-labs/dia](https://github.com/nari-labs/dia) | 19.4K | Two-speaker dialogue in one pass | Apache-2.0 |
