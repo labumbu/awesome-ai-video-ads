@@ -1,0 +1,137 @@
+{
+  "categories": [
+    {
+      "key": "agents",
+      "title": "Agents that edit and assemble the video",
+      "short": "Agents & editing",
+      "repos": [
+        ["calesthio/OpenMontage", "Agentic video production: script to finished cut with a coding agent"],
+        ["remotion-dev/remotion", "Make videos in React code; the base layer of many AI video agents. Own license: larger companies need a paid one"],
+        ["heygen-com/hyperframes", "HeyGen's HTML-to-video renderer built for agents"],
+        ["browser-use/video-use", "Edit real footage with a coding agent"],
+        ["Vincentwei1021/video-shotcraft", "Claude Code / Codex skill for product videos on Remotion"],
+        ["remotion-dev/skills", "Official Remotion skills for Claude Code and other agents"],
+        ["0xsline/OpenChatCut", "Chat-driven video editor with a multi-track timeline"],
+        ["nateherkai/herk-edit-kit", "Edit Reels and Shorts with Claude Code or Codex"]
+      ]
+    },
+    {
+      "key": "factories",
+      "title": "Short-video and UGC factories",
+      "short": "Shorts & UGC factories",
+      "repos": [
+        ["harry0703/MoneyPrinterTurbo", "Topic or keyword in, finished short video out"],
+        ["FujiwaraChoki/MoneyPrinter", "The original automated YouTube Shorts maker"],
+        ["RayVentura/ShortGPT", "Framework for automated Shorts and TikTok channels"],
+        ["mutonby/openshorts", "Long video in, 9:16 clips with face tracking out"],
+        ["YILS-LIN/short-video-factory", "Batch product-marketing shorts, desktop app"],
+        ["Anil-matcha/AI-Youtube-Shorts-Generator", "Long YouTube video to vertical clips"],
+        ["xixihhhh/clipforge", "One product photo to a selling short video"],
+        ["Anil-matcha/Open-AI-UGC", "AI UGC-style videos with avatars"]
+      ]
+    },
+    {
+      "key": "models",
+      "title": "Open video models",
+      "short": "Video models",
+      "repos": [
+        ["Comfy-Org/ComfyUI", "The node editor most people run open video models in"],
+        ["hpcaitech/Open-Sora", "Open text- and image-to-video model"],
+        ["Wan-Video/Wan2.2", "Alibaba's open video model family"],
+        ["lllyasviel/FramePack", "Long image-to-video on consumer GPUs"],
+        ["zai-org/CogVideo", "CogVideoX text- and image-to-video"],
+        ["Tencent-Hunyuan/HunyuanVideo", "Tencent's open video model"],
+        ["MiniMax-AI/MiniMax-H3", "MiniMax's open video model (the Hailuo team)"],
+        ["Lightricks/LTX-2", "Audio + video in one model, with a LoRA trainer"],
+        ["meituan-longcat/LongCat-Video", "Meituan's long-video model"],
+        ["SkyworkAI/SkyReels-V2", "Long-form film generation"],
+        ["Tencent-Hunyuan/HunyuanVideo-1.5", "Lighter HunyuanVideo for smaller GPUs"],
+        ["genmoai/mochi", "Genmo's open video model"]
+      ]
+    },
+    {
+      "key": "voice",
+      "title": "Voice: text-to-speech and cloning",
+      "short": "Voice & cloning",
+      "repos": [
+        ["RVC-Boss/GPT-SoVITS", "Clone a voice from about a minute of audio"],
+        ["microsoft/VibeVoice", "Microsoft's open voice model, long multi-speaker audio"],
+        ["2noise/ChatTTS", "Conversational text-to-speech"],
+        ["OpenBMB/VoxCPM", "Multilingual TTS with voice design"],
+        ["myshell-ai/OpenVoice", "Instant voice cloning across languages"],
+        ["fishaudio/fish-speech", "Multilingual TTS and cloning"],
+        ["resemble-ai/chatterbox", "TTS with emotion control"],
+        ["index-tts/index-tts", "Zero-shot TTS with duration control (handy for dubbing)"],
+        ["QwenAudio/CosyVoice", "Multilingual voice generation from the Qwen team"],
+        ["nari-labs/dia", "Two-speaker dialogue in one pass"],
+        ["SWivid/F5-TTS", "Fast zero-shot voice cloning"],
+        ["hexgrad/kokoro", "Tiny 82M TTS that runs anywhere"]
+      ]
+    },
+    {
+      "key": "faces",
+      "title": "Faces, avatars and lip-sync",
+      "short": "Avatars & lip-sync",
+      "repos": [
+        ["KlingAIResearch/LivePortrait", "Animate a portrait from a driving video"],
+        ["duixcom/Duix-Avatar", "Offline avatar (digital human) video toolkit"],
+        ["OpenTalker/SadTalker", "Talking head from one photo and audio"],
+        ["Rudrabha/Wav2Lip", "The classic lip-sync model"],
+        ["MeiGen-AI/InfiniteTalk", "Unlimited-length talking video, image or video in"],
+        ["TMElyralab/MuseTalk", "Real-time lip-sync"],
+        ["bytedance/LatentSync", "ByteDance's diffusion lip-sync"],
+        ["antgroup/echomimic", "Audio-driven portrait animation"]
+      ]
+    },
+    {
+      "key": "dub",
+      "title": "Translate and dub",
+      "short": "Translate & dub",
+      "repos": [
+        ["jianchang512/pyvideotrans", "Translate a video, add dubbing and subtitles"],
+        ["Huanshere/VideoLingo", "Subtitle cutting, translation, alignment and dubbing"],
+        ["krillinai/OpenCreator", "Video translation and dubbing (formerly KrillinAI)"],
+        ["buxuku/SmartSub", "Desktop app: subtitles, translation, cloned-voice dubbing"],
+        ["liuzhao1225/YouDub-webui", "Localize and dub videos end to end"],
+        ["Kedreamix/Linly-Dubbing", "Multilingual AI dubbing"],
+        ["ThioJoe/Auto-Synced-Translated-Dubs", "Dubs synced to the original subtitle timing"],
+        ["R3gm/SoniTranslate", "Synchronized video translation"]
+      ]
+    },
+    {
+      "key": "cut",
+      "title": "Transcribe, cut and caption",
+      "short": "Transcribe & cut",
+      "repos": [
+        ["openai/whisper", "Speech recognition behind most auto-captions"],
+        ["FFmpeg/FFmpeg", "The engine under nearly every video pipeline"],
+        ["ggml-org/whisper.cpp", "Whisper on a laptop CPU"],
+        ["SYSTRAN/faster-whisper", "Whisper, several times faster"],
+        ["m-bain/whisperX", "Word-level timestamps for captions"],
+        ["WyattBlue/auto-editor", "Cut silences and dead air automatically"],
+        ["Breakthrough/PySceneDetect", "Find every cut and scene change"]
+      ]
+    },
+    {
+      "key": "check",
+      "title": "Check whether the ad will sell",
+      "short": "Check if it sells",
+      "check": true,
+      "repos": [
+        ["google-marketing-solutions/abcds-detector", "Scores a video against YouTube's ABCD framework with Gemini (from Google Marketing Solutions; not an official Google product)"],
+        ["creatify-ai/ad-creative-evaluator", "Claude skill: three AI personas score an ad on 8 dimensions"],
+        ["AdReadyAI/adready-ai", "Pre-launch ad scorecard; per its README, scoring isn't implemented yet"]
+      ]
+    }
+  ],
+  "huggingface": [
+    "Lightricks/LTX-2.5",
+    "Wan-AI/Wan2.2-I2V-A14B",
+    "tencent/HunyuanVideo-1.5",
+    "MiniMaxAI/MiniMax-H3",
+    "hexgrad/Kokoro-82M",
+    "microsoft/VibeVoice-1.5B",
+    "ResembleAI/chatterbox",
+    "IndexTeam/IndexTTS-2"
+  ]
+}
